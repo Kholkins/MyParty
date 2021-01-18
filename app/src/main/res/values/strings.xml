@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyParty</string>
+    <string name="owner_text">Пригласил(а): %1$s</string>
+    <string name="party_pic">Именины</string>
+    <string name="title_list">С Вами придут</string>
+    <string name="button_text">На вечеринку!</string>
+</resources>
